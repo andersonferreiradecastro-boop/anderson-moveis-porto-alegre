@@ -27,6 +27,21 @@ const Gallery = () => {
       src: "/lovable-uploads/2249d24b-ebd5-4fa0-9cd3-149fddeaceaf.png",
       alt: "Móveis de quarto montados",
       title: "Guarda-roupa Grande"
+    },
+    {
+      src: "/lovable-uploads/7ddc7372-95cd-49c8-be8a-2a56f04e9697.png",
+      alt: "Painel de TV montado com perfeição",
+      title: "Home Theater Completo"
+    },
+    {
+      src: "/lovable-uploads/097d26e2-9659-43f2-bd07-fd568593eeb3.png",
+      alt: "Cozinha montada profissionalmente",
+      title: "Cozinha Planejada Moderna"
+    },
+    {
+      src: "/lovable-uploads/a82b41c3-c67c-4e13-b5d0-6af3a07779c6.png",
+      alt: "Cozinha em L montada",
+      title: "Cozinha Planejada em L"
     }
   ];
 
