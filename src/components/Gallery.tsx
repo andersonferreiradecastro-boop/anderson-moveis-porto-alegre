@@ -1,37 +1,32 @@
 import { Card } from "@/components/ui/card";
 
 const Gallery = () => {
-  // Using placeholder images for furniture assembly
+  // Real photos from Anderson's furniture assembly work
   const images = [
     {
-      src: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      alt: "Quarto montado profissionalmente",
-      title: "Quarto Completo"
+      src: "/lovable-uploads/330a9809-d305-422d-aee1-6568f269c326.png",
+      alt: "Móveis montados profissionalmente",
+      title: "Móveis Planejados para Cozinha"
     },
     {
-      src: "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      alt: "Sala de estar com móveis montados",
-      title: "Sala de Estar"
+      src: "/lovable-uploads/8c253f8d-c1e7-42b0-b1a8-7f6e47a0e099.png",
+      alt: "Guarda-roupa montado com perfeição",
+      title: "Guarda-roupa Completo"
     },
     {
-      src: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      alt: "Cozinha com móveis planejados",
-      title: "Cozinha Planejada"
+      src: "/lovable-uploads/cf2a8e84-e2a5-4fc9-9dd9-40f778a7bccf.png",
+      alt: "Armário de quarto montado",
+      title: "Armário de Quarto com Gavetas"
     },
     {
-      src: "https://images.unsplash.com/photo-1484154218962-a197022b5858?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      alt: "Escritório home office",
-      title: "Home Office"
+      src: "/lovable-uploads/c471e781-61e8-4d49-a96e-a031c714dadb.png",
+      alt: "Cozinha planejada montada",
+      title: "Cozinha Planejada Completa"
     },
     {
-      src: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      alt: "Estante montada",
-      title: "Estantes e Prateleiras"
-    },
-    {
-      src: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-      alt: "Guarda-roupa montado",
-      title: "Guarda-roupas"
+      src: "/lovable-uploads/2249d24b-ebd5-4fa0-9cd3-149fddeaceaf.png",
+      alt: "Móveis de quarto montados",
+      title: "Guarda-roupa Grande"
     }
   ];
 
