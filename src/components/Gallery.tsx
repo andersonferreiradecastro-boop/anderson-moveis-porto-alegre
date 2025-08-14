@@ -4,42 +4,42 @@ const Gallery = () => {
   // Real photos from Anderson's furniture assembly work
   const images = [
     {
-      src: "/lovable-uploads/330a9809-d305-422d-aee1-6568f269c326.png",
+      src: "/anderson-moveis-porto-alegre/lovable-uploads/330a9809-d305-422d-aee1-6568f269c326.png",
       alt: "Móveis montados profissionalmente",
       title: "Móveis Planejados para Cozinha"
     },
     {
-      src: "/lovable-uploads/8c253f8d-c1e7-42b0-b1a8-7f6e47a0e099.png",
+      src: "/anderson-moveis-porto-alegre/lovable-uploads/8c253f8d-c1e7-42b0-b1a8-7f6e47a0e099.png",
       alt: "Guarda-roupa montado com perfeição",
       title: "Guarda-roupa Completo"
     },
     {
-      src: "/lovable-uploads/cf2a8e84-e2a5-4fc9-9dd9-40f778a7bccf.png",
+      src: "/anderson-moveis-porto-alegre/lovable-uploads/cf2a8e84-e2a5-4fc9-9dd9-40f778a7bccf.png",
       alt: "Armário de quarto montado",
       title: "Armário de Quarto com Gavetas"
     },
     {
-      src: "/lovable-uploads/c471e781-61e8-4d49-a96e-a031c714dadb.png",
+      src: "/anderson-moveis-porto-alegre/lovable-uploads/c471e781-61e8-4d49-a96e-a031c714dadb.png",
       alt: "Cozinha planejada montada",
       title: "Cozinha Planejada Completa"
     },
     {
-      src: "/lovable-uploads/2249d24b-ebd5-4fa0-9cd3-149fddeaceaf.png",
+      src: "/anderson-moveis-porto-alegre/lovable-uploads/2249d24b-ebd5-4fa0-9cd3-149fddeaceaf.png",
       alt: "Móveis de quarto montados",
       title: "Guarda-roupa Grande"
     },
     {
-      src: "/lovable-uploads/7ddc7372-95cd-49c8-be8a-2a56f04e9697.png",
+      src: "/anderson-moveis-porto-alegre/lovable-uploads/7ddc7372-95cd-49c8-be8a-2a56f04e9697.png",
       alt: "Painel de TV montado com perfeição",
       title: "Home Theater Completo"
     },
     {
-      src: "/lovable-uploads/097d26e2-9659-43f2-bd07-fd568593eeb3.png",
+      src: "/anderson-moveis-porto-alegre/lovable-uploads/097d26e2-9659-43f2-bd07-fd568593eeb3.png",
       alt: "Cozinha montada profissionalmente",
       title: "Cozinha Planejada Moderna"
     },
     {
-      src: "/lovable-uploads/a82b41c3-c67c-4e13-b5d0-6af3a07779c6.png",
+      src: "/anderson-moveis-porto-alegre/lovable-uploads/a82b41c3-c67c-4e13-b5d0-6af3a07779c6.png",
       alt: "Cozinha em L montada",
       title: "Cozinha Planejada em L"
     }
