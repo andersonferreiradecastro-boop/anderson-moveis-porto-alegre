@@ -5,6 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/...
 export default defineConfig(({ mode }) => ({
+    base: '/https://github.com/andersonferreiradecastro-boop/anderson-moveis-porto-alegre/',
     build: {
     outDir: 'docs',    // <- Build vai direto para 'docs'
   },
